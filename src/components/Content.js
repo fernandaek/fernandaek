@@ -239,7 +239,7 @@ function ContentPage() {
                   className="img-fluid"
                   alt="Sample project image"
                 />
-                <a href="?#">
+                <a href="!#">
                   <div className="mask rgba-white-slight"></div>
                 </a>
               </div>
@@ -251,7 +251,7 @@ function ContentPage() {
                 </p>
                 <a
                   className="btn btn-purple btn-sm"
-                  href="?"
+                  href="!#"
                 >
                   <i className="fa fa-clone left"></i> View project
                 </a>
